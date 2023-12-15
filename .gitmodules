@@ -1,0 +1,9 @@
+[submodule "EDA_Rmd"]
+	path = EDA_Rmd
+	url = https://github.com/Ashish25/EDA_Rmd.git
+[submodule "Wrangling"]
+	path = Wrangling
+	url = https://github.com/Ashish25/Wrangling.git
+[submodule "TitanicDA"]
+	path = TitanicDA
+	url = https://github.com/Ashish25/TitanicDA.git
